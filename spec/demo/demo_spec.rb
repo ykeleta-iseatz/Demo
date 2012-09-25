@@ -1,8 +1,8 @@
 
-describe 'do nothing' do
+describe 'Arithmetic' do
 
-  it 'arithmetic should still work' do
-    (1+2).should  == 3
+  it 'Integer addition should still work' do
+    (1+11).should  == 2
   end
 end
 
